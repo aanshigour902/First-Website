@@ -1,0 +1,158 @@
+
+body {
+    background-color: #C9BBCF;
+    margin: 0;
+    text-align: center;
+}
+
+.firstContainer {
+    /* background-color: #D3DEDC; */
+    background-color: #C9BBCF;
+    font-family: 'Amatic SC','Cookie','Short Stack',"Bradley Hand ITC","Century Gothic","sans-serif";
+    /* font-size: xx-large; */
+    font-size: 250%;
+    /* color: #06283D; */
+    color: #874C62;
+    /* height: 85vh; */
+    min-height: 85vh;
+    /* padding: 10% 1% 1%; */
+    padding: 150px 10px 10px; 
+}
+
+h1.heading {
+    margin-bottom: 25px;
+    margin-top: 0px;
+    /* font-size: 500%; */
+}
+
+h4 {
+    /* font-size: 270%; */
+    margin: 20px;
+}
+
+.cloud1 {
+    position: absolute;
+    width: 12%;
+    top: 8%;
+    right: 23%;
+}
+
+.cloud2 {
+    position: absolute;
+    width: 12%;
+    left: 23%;
+}
+
+.mountain {
+    position: relative;
+    width: 40%;
+}
+
+.profile-picture {
+    width: 20%;
+    border-radius: 100%;
+}
+
+.programmer {
+    width: 25%;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+
+.sketch-artist {
+    width: 25%;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+
+p {
+    line-height: 2;
+}
+
+h3,a {
+    /* color:#11999E; */
+    /* color: #898AA6; */
+    color: #80558C;
+    font-size: 150%;
+}
+
+h2 {
+    /* color: #66bfbf; */
+    /* color: #7D6E83; */
+    color: #874C62;
+    font-size: 200%;
+}
+
+.skill-row {
+    margin: 50px auto 50px;
+    width: 75%;
+    min-height: 37vh;
+    text-align: left;
+}
+
+.skills, .profile {
+    margin: 70px auto 70px;
+}
+
+hr {
+    border-style: dotted none none;
+    border-width: 10px;
+    /* border-color: #3D8361; */
+    /* border-color: #798777; */
+    /* border-color: #F5C0C0; */
+    border-color: #D885A3;
+    width: 10%;
+}
+
+.footer {
+    background-color: #874C62;
+    margin-top: 20px;
+}
+
+a.footer-link {
+    color: white;
+    margin: 10px;
+}
+
+p,span,a {
+    font-family: "Short Stack","Bradley Hand ITC";
+    font-size: 110%;
+}
+
+.profile,.contact-me {
+    width: 75%;
+    margin: 70px auto 70px;
+}
+
+.btn {
+    font-size: 125%;
+}
+
+/* .btn {
+    background: #AC7088;
+    background-image: -webkit-linear-gradient(top, #AC7088, #874C62);
+    background-image: -moz-linear-gradient(top, #AC7088, #874C62);
+    background-image: -ms-linear-gradient(top, #AC7088, #874C62);
+    background-image: -o-linear-gradient(top, #AC7088, #874C62);
+    background-image: linear-gradient(to bottom, #AC7088, #874C62);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: "Short Stack","Bradley Hand ITC";
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #F5C0C0;
+    background-image: -webkit-linear-gradient(top, #F5C0C0, #d885a3);
+    background-image: -moz-linear-gradient(top, #F5C0C0, #d885a3);
+    background-image: -ms-linear-gradient(top, #F5C0C0, #d885a3);
+    background-image: -o-linear-gradient(top, #F5C0C0, #d885a3);
+    background-image: linear-gradient(to bottom, #F5C0C0, #d885a3);
+    text-decoration: none;
+  } */
